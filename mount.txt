@@ -1,0 +1,5 @@
+CAS;2rtk.cn;2101;cloud.tencent;2RTK;0;CHN;26.01;110.21;caster
+NET;NTRIP;2RTK;B;N;http://www.2RTK.com/;none;i@jia.by;none
+STR;RTKGL;RTCM3;RTCM3.3;GPS+GLO+BD;WENKI;chinanet;CHINA;0.0;0.0;Y;N;1000;test
+
+ENDSOURCETABLE
